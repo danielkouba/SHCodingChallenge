@@ -1,0 +1,2 @@
+I used a Model View Controller architecture. The controller receives data from user through the views, like when they are requesting another set of currency conversion rates. The Models sort and organize the data and feed it back to the views for the user to interact with, like when the API responds, and it is organized and displayed in the table view. 
+
